@@ -10,9 +10,8 @@ Họ và tên: Nhan Ngọc Dương
 Trình độ: Đại học chính quy
 Chuyên môn: lập trình PHP Frameword Laravel
 Kinh nghiệm làm việc: 4 năm tại trường đại học
-Dự án đã thực hiện: Laravel (PHP), C#, Java
 ```
- [Liên kết đến dự án cá nhân](https://github.com/nhanngocduong)
+  Dự án đã thực hiện: [Liên kết đến dự án cá nhân](https://github.com/nhanngocduong)
 
 Bạn có thể liên hệ với tôi qua  ([facebook](https://www.facebook.com/nhanngocduong.songma), [twitter](https://twitter.com/nhanngocduong), [skype (live:nhanngocduong)]( )).
 
