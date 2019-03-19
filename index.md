@@ -14,6 +14,6 @@ Dự án đã thực hiện: Laravel (PHP), C#, Java
 ```
  [Liên kết đến dự án cá nhân](https://github.com/nhanngocduong)
 
-Bạn có thể liên hệ với tôi qua  ([facebook](https://www.facebook.com/nhanngocduong.songma), [twitter](https://twitter.com/nhanngocduong), [skype (live:nhanngocduong)]( ).
+Bạn có thể liên hệ với tôi qua  ([facebook](https://www.facebook.com/nhanngocduong.songma), [twitter](https://twitter.com/nhanngocduong), [skype (live:nhanngocduong)]( )).
 
 >©Copyright, [Nhan Ngọc Dương](https://www.facebook.com/nhanngocduong.songma)
